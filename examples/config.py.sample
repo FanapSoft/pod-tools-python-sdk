@@ -1,0 +1,5 @@
+# coding=utf-8
+
+API_TOKEN = "YOUR_API_TOKEN"
+SC_API_KEY = "SC_API_KEY"
+
